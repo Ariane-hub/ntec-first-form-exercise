@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    width:fit-content;
+}
+h1{
+    color:solid black;
+    text-align: center;
+    font: italic;
+    font-weight: bold;
+}
+div{text-align: center;
+}
+input{
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+.A{
+    border: 5px yellow;
+    position:relative;
+
+}
+.main{
+   padding:5px;
+   box-shadow:10px 5px 5px black;
+   text-align:center;
+   background:url(pexels-pixabay.jpg) center no-repeat;
+   background-position: center;
+   background-size: auto;
+}
